@@ -1,2 +1,3 @@
 import my_functions
-my_functions.func()
+result = my_functions.func()
+print(result)
